@@ -19,23 +19,6 @@ If you don't use intellij idea, install the dependencies using Spring Initializr
 
 # Project Structure
 The project is structured as follows:
-
-|-- src <br>
-|   |-- main
-|       |-- java
-|           |-- com.example.crud
-|               |-- controller
-|               |-- model
-|               |-- repository
-|               |-- service
-|               |-- CrudApplication.java
-|-- src
-|   |-- main
-|       |-- resources
-|           |-- application.properties
-|-- pom.xml
-|-- README.md
-
 * controller: Contains classes responsible for handling HTTP requests.
 * model: Defines the system entities.
 * repository: Provides access to data through CRUD operations.
@@ -143,23 +126,6 @@ Caso não use o intellij idea, instale as dependencias pelo Spring Initializr
 
 # Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
-
-|-- src
-|   |-- main
-|       |-- java
-|           |-- com.example.crud
-|               |-- controller
-|               |-- model
-|               |-- repository
-|               |-- service
-|               |-- CrudApplication.java
-|-- src
-|   |-- main
-|       |-- resources
-|           |-- application.properties
-|-- pom.xml
-|-- README.md
-
 * controller: Contém classes responsáveis por lidar com as requisições HTTP.
 * model: Define as entidades do sistema.
 * repository: Fornece acesso a dados por meio de operações CRUD.
