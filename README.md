@@ -46,7 +46,7 @@ PUT /api/entities/{id}: Updates an existing entity by ID.
 
 DELETE /api/entities/{id}: Deletes an entity by ID.
 
-#CRUD
+# CRUD
 Study and implementation of a CRUD
 
 C: Create - create a new record
