@@ -37,9 +37,13 @@ Update the database settings in the 'application.properties' file with informati
 
 # Endpoints
 GET /api/entities: Returns all entities.
+
 GET /api/entities/{id}: Returns a specific entity by ID.
+
 POST /api/entities: Creates a new entity.
+
 PUT /api/entities/{id}: Updates an existing entity by ID.
+
 DELETE /api/entities/{id}: Deletes an entity by ID.
 
 #CRUD
@@ -148,9 +152,13 @@ Atualize as configurações do banco de dados no arquivo 'application.properties
 
 # Endpoints
 GET /api/entities: Retorna todas as entidades.
+
 GET /api/entities/{id}: Retorna uma entidade específica por ID.
+
 POST /api/entities: Cria uma nova entidade.
+
 PUT /api/entities/{id}: Atualiza uma entidade existente por ID.
+
 DELETE /api/entities/{id}: Exclui uma entidade por ID.
 
 # CRUD
