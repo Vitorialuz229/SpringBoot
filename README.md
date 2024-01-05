@@ -30,7 +30,9 @@ The project is structured as follows:
 Update the database settings in the 'application.properties' file with information specific to your environment.
 
 --spring.datasource.url=jdbc":mysql:"(database ex: h2 or postgreSQl)//localhost:3306/seu_banco_de_dados--
+
 --spring.datasource.username=your_username--
+
 --spring.datasource.password=your_password--
 
 # Endpoints
