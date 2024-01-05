@@ -20,7 +20,7 @@ If you don't use intellij idea, install the dependencies using Spring Initializr
 # Project Structure
 The project is structured as follows:
 
-|-- src
+|-- src <br>
 |   |-- main
 |       |-- java
 |           |-- com.example.crud
