@@ -21,18 +21,18 @@ If you don't use intellij idea, install the dependencies using Spring Initializr
 The project is structured as follows:
 
 |-- src
-| |-- main
-| |-- java
-| |-- com.example.crud
-| |-- controller
-| |-- model
-| |-- repository
-| |-- service
-| |-- CrudApplication.java
+|   |-- main
+|       |-- java
+|           |-- com.example.crud
+|               |-- controller
+|               |-- model
+|               |-- repository
+|               |-- service
+|               |-- CrudApplication.java
 |-- src
-| |-- main
-| |-- resources
-| |-- application.properties
+|   |-- main
+|       |-- resources
+|           |-- application.properties
 |-- pom.xml
 |-- README.md
 
