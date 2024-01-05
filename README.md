@@ -53,7 +53,9 @@ D: Delete - deletes a record
 
 # Running the Application
 Clone this repository: git clone https://github.com/seu-usuario/spring-boot-crud-study.git
+
 Navigate to the project directory: cd spring-boot-crud-study
+
 Run the application: mvn spring-boot:run
 
 The application will be available at http://localhost:8080.
@@ -160,7 +162,9 @@ D: Delete (apagar) - apaga um registro
 
 # Executando a Aplicação
 Clone este repositório: git clone https://github.com/seu-usuario/spring-boot-crud-study.git
+
 Navegue até o diretório do projeto: cd spring-boot-crud-study
+
 Execute o aplicativo: mvn spring-boot:run
 
 A aplicação estará disponível em http://localhost:8080.
