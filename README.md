@@ -141,7 +141,9 @@ O projeto está estruturado da seguinte forma:
 Atualize as configurações do banco de dados no arquivo 'application.properties' com as informações específicas do seu ambiente.
 
 --spring.datasource.url=jdbc":mysql:"(banco de dados ex: h2 ou postgreSQl)//localhost:3306/seu_banco_de_dados--
+
 --spring.datasource.username=seu_usuario--
+
 --spring.datasource.password=sua_senha--
 
 # Endpoints
